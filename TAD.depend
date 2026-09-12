@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1789170289 source:c:\users\actca\codeblocks\tad\fila.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"fila.h"
+
+1789163509 source:c:\users\actca\codeblocks\tad\lista.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"lista.h"
+
+1789162656 c:\users\actca\codeblocks\tad\lista.h
+
+1789168450 source:c:\users\actca\codeblocks\tad\pilha.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	"pilha.h"
+
+1789168450 c:\users\actca\codeblocks\tad\pilha.h
+
+1789170648 c:\users\actca\codeblocks\tad\fila.h
+
